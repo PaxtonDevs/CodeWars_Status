@@ -3,8 +3,7 @@ This is a guide on how to solve some of CodeWars problems with alternative solut
 
 
 
-
-| __8kyu__   | Problem | Solutions |
+| 8kyu   | Problem | Solutions |
 | ------ | ------ | ------ |
 |  | This is how to convert a string |  [plugins/dropbox/README.md][PlDb] |
 |  | Turn array into an ........   | [plugins/github/README.md][PlGh] |
