@@ -1,8 +1,9 @@
 # CodeWars_Mentor
 This is a guide on how to solve some of CodeWars problems with alternative solutions
 
-|:------:|
-| 8kyu     |           |
+
+| 8kyu                |
+| ------ |
 | Problem | Solutions |
 | ------ | ------ |
 | Code#1 | [plugins/dropbox/README.md][PlDb] |
