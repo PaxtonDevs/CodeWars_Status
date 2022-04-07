@@ -1,4 +1,4 @@
-#  :books: CodeWars Completed <img src="https://docs.codewars.com/logo.svg" width="25">
+#  <img src="https://docs.codewars.com/logo.svg" width="35"> CodeWars Completed 
 
 This repo is a personal showcase of the challenges completed on Codewars.  
 My solutions are available here: [CodeWars](https://www.codewars.com/users/Dev891740/completed_solutions)
