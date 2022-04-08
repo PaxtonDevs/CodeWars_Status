@@ -3,12 +3,12 @@
 This repo is a personal showcase of the challenges completed on Codewars.  
 My solutions are available here: [CodeWars](https://www.codewars.com/users/Dev891740/completed_solutions)
 
- :zap: **Rank: 6 Kyu**  
-:unlock: **Total Katas completed: 83**
+ :zap: **Rank: 5 Kyu**  
+:unlock: **Total Katas completed: 101**
 
 | Difficulty | Challenges completed / Challenges available |  
 | ------ | :-----:| 
-|8 kyu | 79/388 | 
+|8 kyu | 97/388 | 
 |7 kyu | 2/1900 | 
 |6 kyu | 1/1981 | 
 |5 kyu | 1/814  | 
