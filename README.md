@@ -10,7 +10,7 @@ My solutions are available here: [CodeWars](https://www.codewars.com/users/Dev89
 | ------ | :-----:| 
 |8 kyu | 168/388 | 
 |7 kyu | 14/1900 | 
-|6 kyu | 1/1981 | 
+|6 kyu | 2/1981 | 
 |5 kyu | 1/814  | 
 |4 kyu | 0/269  | 
 |3 kyu | 0/71   | 
