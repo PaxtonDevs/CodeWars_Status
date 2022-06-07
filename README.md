@@ -8,7 +8,7 @@ My solutions are available here: [CodeWars](https://www.codewars.com/users/Dev89
 
 | Difficulty | Challenges completed / Challenges available |  
 | ------ | :-----:| 
-|8 kyu | 183/388 | 
+|8 kyu | 184/388 | 
 |7 kyu | 14/1900 | 
 |6 kyu | 2/1981 | 
 |5 kyu | 1/814  | 
